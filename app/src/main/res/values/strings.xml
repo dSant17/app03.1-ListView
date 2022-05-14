@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ListView</string>
+
+    <string-array name="paises">
+        <item>México</item>
+        <item>Alemania</item>
+        <item>Argentina</item>
+        <item>Australia</item>
+        <item>Ecuador</item>
+        <item>Egipto</item>
+        <item>España</item>
+        <item>Francia</item>
+        <item>Malasia</item>
+        <item>Marruecos</item>
+    </string-array>
+    <string name="desApp">Países disponibles</string>
+    <string name="lblPaises">Seleccione un país</string>
+</resources>
